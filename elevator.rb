@@ -33,3 +33,7 @@ puts el.greeting
 	el.go_up
 end
 puts el.greeting
+12.times do
+	el.go_up
+end
+puts el.greeting

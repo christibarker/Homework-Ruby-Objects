@@ -10,7 +10,7 @@ divide
 
 
 
- (Links to an external site.)Links to an external site.Elevator
+
 Create a class to model an elevator
 
 Instance Variables:
